@@ -21,7 +21,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Now let's bring the cloned repository to your local machine.  
 `git clone <url-you-just-copied>`  
 For example:  
-` git clone https://github.com/VersatileVishal/Hactober-Fest-2020.git`
+` git clone https://github.com/VersatileVishal/Hactoberfest-2020.git`
 
 ---
 
