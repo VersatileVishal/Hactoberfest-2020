@@ -4,9 +4,9 @@
 
 ## Open source contribution is always fun and exciting :star_struck:
 
-Let's make a contribution to this repository.
+Let's make a contribution to this repository. And earn some goodies.
 
-Let me show you how easy it is:
+Let me show you, it's piece of cake:
 
 ## 1. Fork this repository
 
